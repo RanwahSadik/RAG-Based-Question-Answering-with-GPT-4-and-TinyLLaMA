@@ -53,7 +53,7 @@ Using the stored embeddings, the system performs **Retrieval-Augmented Generatio
 
 - ✅ **GPT-4 outperforms** in terms of **contextual accuracy, indirect question handling, and fluency** of answers.
 - 🔄 **TinyLLaMA is ideal** for **offline use**, fast prototyping.
-- 
+  
 ---
   ## 📚 References
 
